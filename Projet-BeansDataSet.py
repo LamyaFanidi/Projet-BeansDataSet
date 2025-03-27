@@ -139,4 +139,4 @@ elif menu == 'Recommandations':
     """)
 elif menu == 'GitHub':
     st.subheader("🔗 Lien vers le code source : ")
-    st.markdown("https://github.com/votre-utilisateur/votre-repo")
+    st.markdown("https://github.com/LamyaFanidi/Projet-BeansDataSet")
